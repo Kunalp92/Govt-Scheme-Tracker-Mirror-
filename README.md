@@ -26,3 +26,11 @@ The Govt Scheme Tracker is a web-based dashboard designed to monitor the impleme
 4. Configure database connection: Update the database connection details in `config.php`.
 5. Start the PHP server: Run `php -S localhost:8000` in the project directory.
 6. Open a web browser and go to `http://localhost:8000` to access the application.
+
+## Temporary Login Credentials (for Testing Purposes Only)
+
+- **Username:** ATCNagpur
+- **Password:** ATCNagpur@123
+
+**Note:** These credentials are provided for testing purposes only. Please ensure to change the password immediately after testing.
+
