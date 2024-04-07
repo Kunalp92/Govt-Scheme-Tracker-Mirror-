@@ -34,3 +34,8 @@ The Govt Scheme Tracker is a web-based dashboard designed to monitor the impleme
 
 **Note:** These credentials are provided for testing purposes only. Please ensure to change the password immediately after testing.
 
+## Test Website
+
+You can access the test version of the website [here](https://9teeninitiative.in/ATC/index.php).
+
+**Note:** This is a test version of the website for demonstration purposes. Please refrain from entering sensitive information.
